@@ -1,0 +1,5 @@
+{
+  "type" : "DbTargetCollection",
+  "name" : "SmartMeterEvent",
+  "target" : "SmartMeterEvent"
+}

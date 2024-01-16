@@ -1,0 +1,3 @@
+SmartMeterElectricMeasurementSource: FileSourceCollection
+SmartBulbMeasurementSource: FileSourceCollection
+SmartBulbSource: FileSourceCollection

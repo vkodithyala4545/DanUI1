@@ -1,0 +1,11 @@
+[ {
+  "id" : "EnergyUsageMeter",
+  "name" : "EnergyUsageMeter",
+  "description" : "Total power of meters",
+  "expression" : "treatAsUnit('kilowatt_hour',sum(eval('HOUR',randomTimeseries(1, 100))))"
+}, {
+  "id" : "EnergyUsageBulb",
+  "name" : "EnergyUsageBulb",
+  "description" : "Total power of bulbs",
+  "expression" : "treatAsUnit('kilowatt_hour',sum(eval('HOUR',randomTimeseries(1, 100))))"
+} ]

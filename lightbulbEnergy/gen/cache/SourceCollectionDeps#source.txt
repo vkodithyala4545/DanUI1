@@ -1,0 +1,3 @@
+SmartMeterElectricMeasurementSource: SourceSmartMeterElectricMeasurement
+SmartBulbMeasurementSource: SourceSmartBulbMeasurement
+SmartBulbSource: SourceSmartBulb

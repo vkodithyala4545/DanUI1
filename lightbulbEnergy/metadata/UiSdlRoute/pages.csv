@@ -1,0 +1,7 @@
+targetModuleName,targetPageName,name,urlPath
+lightbulbEnergy,Bulbs,/bulbs,/bulbs
+lightbulbEnergy,Home,/,/
+lightbulbEnergy,Home,/home,/home
+lightbulbEnergy,Bulb,/bulb/{{myid}},/bulb/{{myid}}
+lightbulbEnergy,Meter,/meter/{{myid}},/meter/{{myid}}
+lightbulbEnergy,Building,/building/{{myid}},/building/{{myid}}

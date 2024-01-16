@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "es2015"
+    ],
+    "checkJs": false,
+    "strictNullChecks": true
+  },
+  "typeAcquisition": {
+    "include": [
+      "jasmine",
+      "underscore"
+    ]
+  },
+  "include": [
+    "./src/**/*.js",
+    "./test/**/*.js",
+    "./gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/platform/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/lightbulbEnergy/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/uiComponentLibraryReact/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/uiInfrastructureReact/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/uiInfrastructure/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/hierarchy/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/testtools/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/units/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/uiBundler/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/cssLibrary/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/uiComponentLibrary/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/.vs-cache/uiSdlReact/gen/**/*.d.ts",
+    "c:/Users/jiacuo.danzeng/Downloads/UI/c3v8ui1_course_files/C3V8UI1_Course_Files/lightbulbCore/gen/**/*.d.ts"
+  ]
+}

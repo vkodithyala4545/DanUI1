@@ -1,0 +1,2 @@
+UiSdlEpicUpdateChartUsingTwoTimestamps: [UiSdlEpic, Value, Obj, Serializable, Fingerprintable, MemoryMeasurable, WithType]
+UiSdlApplicationStateLBE: [UiSdlApplicationState, UiSdlEffectableState, UiSdlState, Value, Identifiable, WithId, Obj, Serializable, Fingerprintable, MemoryMeasurable, WithType, WithKey, StringSerializable, WithToString]

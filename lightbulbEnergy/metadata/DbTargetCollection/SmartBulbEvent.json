@@ -1,0 +1,5 @@
+{
+  "type" : "DbTargetCollection",
+  "name" : "SmartBulbEvent",
+  "target" : "SmartBulbEvent"
+}
